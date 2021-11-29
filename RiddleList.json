@@ -1,0 +1,270 @@
+[
+  {
+    "id":"1",
+    "riddle":"Hangi örtü masada kullanılmaz?",
+    "answer":"Bitki örtüsü"
+  },
+  {
+    "id":"2",
+    "riddle":"Bir kabus gördüğünü ne zaman anlarsın?",
+    "answer":"Uyandığında"
+  },
+  {
+    "id":"3",
+    "riddle":"Gangi top zıplamaz?",
+    "answer":"Kartopu"
+  },
+  {
+    "id":"4",
+    "riddle":"Dışı bahar içi kış, yememiş içmemiz hepsini bize saklamış.",
+    "answer":"Buzdolabı"
+  },
+  {
+    "id":"5",
+    "riddle":"Dişim var ağzım yok, yerim başın üstüdür",
+    "answer":"Tarak"
+  },
+  {
+    "id":"6",
+    "riddle":"Sen gidersin o gider, yok onda üzüntü keder, gündüz onun dostudur, gece onu yok eder.",
+    "answer":"Gölge"
+  },
+  {
+    "id":"7",
+    "riddle":"Altı çukur, ova değil, üstü kubbe, hava değil, içinde bir bülbül öter, otuz iki kız çevresini bekler",
+    "answer":"Ağız"
+  },
+  {
+    "id":"8",
+    "riddle":"Evlerin yabancısı, her gün evlerde konuk, ev halkı karşısında taş gibi sessiz, donuk.",
+    "answer":"Televizyon"
+  },
+  {
+    "id":"9",
+    "riddle":"Ayağı kılsız, lakin akılsız, başı yassıdır, bıyıklı hırsız.",
+    "answer":"Fare"
+  },
+  {
+    "id":"10",
+    "riddle":"Hışıl hışıl ses verir, dağa taşa süs verir. Ne yerde durur, ne gökte, değen yüze mest verir.",
+    "answer":"Rüzgar"
+  },
+  {
+    "id":"11",
+    "riddle":"Altı ayaklı fil; ortasında dil.",
+    "answer":"Terazi"
+  },
+  {
+    "id":"12",
+    "riddle":"Karşı dağın eteği, Cümlemizin yatağı.",
+    "answer":"Mezarlık"
+  },
+  {
+    "id":"13",
+    "riddle":"Yazın yaşı yenir, Kışın başı yenir",
+    "answer":"Soğan"
+  },
+  {
+    "id":"14",
+    "riddle":"Açtım okudum dalından, Yedim doydum balından",
+    "answer":"Kitap"
+  },
+  {
+    "id":"15",
+    "riddle":"Sıra sıra çeperler, Birbirini öperler",
+    "answer":"Kirpik"
+  },
+  {
+    "id":"16",
+    "riddle":"Kendisi çok derindedir, Herkesin bir yerindedir.",
+    "answer":"Kalp"
+  },
+  {
+    "id":"17",
+    "riddle":"Bir basarsın düğmeye, Çıkarsın gökyüzüne.",
+    "answer":"Asansör"
+  },
+  {
+    "id":"18",
+    "riddle":"Altı çukur, ova değil, üstü kubbe, hava değil, içinde bir bülbül öter, otuz iki kız çevresini bekler",
+    "answer":"Ağız"
+  },
+  {
+    "id":"19",
+    "riddle":"Benim iki pencerem var, etrafı etten duvar; gece olur kaparım, gündüz olur açarım.",
+    "answer":"Göz"
+  },
+  {
+    "id":"20",
+    "riddle":"Dilberin yanağıdır, temmuz ayı çağıdır, vatanını sorarsan, Amasya’nın bağıdır.",
+    "answer":"Elma"
+  },
+  {
+    "id":"21",
+    "riddle":"Dumanı tüter, isterse gider, balık değildir, denizde yüzer.",
+    "answer":"Vapur"
+  },
+  {
+    "id":"22",
+    "riddle":"Ayağı kılsız, lakin akılsız, başı yassıdır, bıyıklı hırsız.",
+    "answer":"Fare"
+  },
+  {
+    "id":"23",
+    "riddle":"Bir gözü var bir boyu, bir de sivri kuyruğu, kadı gibi pek zayıf",
+    "answer":"İğne"
+  },
+  {
+    "id":"24",
+    "riddle":"Yapılmamış duvar üstünde, doğmamış oğlan oturur. Ekilmemiş bostanı yolma diye bağırır",
+    "answer":"Yalan"
+  },
+  {
+    "id":"25",
+    "riddle":"Uzun uzun urganlar, ucunda demir hanlar. dereli",
+    "answer":"Yol"
+  },
+  {
+    "id":"26",
+    "riddle":"Beni yan çevir, ben her şeyim. Beni ortadan kes, ben hiçbir şeyim. Peki, ben neyim?",
+    "answer":"8 Sayısı"
+  },
+  {
+    "id":"27",
+    "riddle":"Ay varken uçar, gün varken kaçar.",
+    "answer":"Yarasa"
+  },
+  {
+    "id":"28",
+    "riddle":"Uzaktan baktım kara taş, yakından baktım dört ayak bir baş.",
+    "answer":"Kaplumbağa"
+  },
+  {
+    "id":"29",
+    "riddle":"Ağzı var, konuşamaz. Yatağı var, hiç uyumaz.",
+    "answer":"Akarsu"
+  },
+  {
+    "id":"30",
+    "riddle":"Evlerin yabancısı, her gün evlerde konuk, ev halkı karşısında taş gibi sessiz, donuk.",
+    "answer":"Televizyon"
+  },
+  {
+    "id":"31",
+    "riddle":"Yağmur sonu göklerde, yedi renkli bir yayım.",
+    "answer":"Gökkuşağı"
+  },
+  {
+    "id":"32",
+    "riddle":"Tatlıdır armağanım, pek acıtır silahım, temizdir benim adım, ben kimim söyle canım?",
+    "answer":"Arı"
+  },
+  {
+    "id":"33",
+    "riddle":"Önce beyaz kar gibi, sonra yeşil yonca gibi. Kızarır kan olur sanki, öyle de lezzeti var ki.",
+    "answer":"Kiraz"
+  },
+  {
+    "id":"34",
+    "riddle":"Biz biz, biz idik; yüz bin tane kız idik; gece oldu dizildik; gündüz oldu silindik.",
+    "answer":"Yıldızlar"
+  },
+  {
+    "id":"35",
+    "riddle":"Az gitti uz gitti. Dere tepe düz gitti. Gözlerini açınca anında her şey bitti.",
+    "answer":"Rüya"
+  },
+  {
+    "id":"36",
+    "riddle":"Küçücük top biçiminde, sert bir kabuk içinde, bu milletin öz malıdır, ne Hint’dedir, ne Çin’de.",
+    "answer":"Fındık"
+  },
+  {
+    "id":"37",
+    "riddle":"Yatınca kediden alçak; Kalkınca deveden yüksek",
+    "answer":"Kuş"
+  },
+  {
+    "id":"38",
+    "riddle":"Duvarda dolanırım sekiz küçük ayağımla, durmadan ağ örerim bilin bakalım ben kimim",
+    "answer":"Örümcek"
+  },
+  {
+    "id":"39",
+    "riddle":"Dağdan attım yarılmadı, taştan attım kırılmadı. Ne kadar da zayıfmış, bir ateşe dayanmadı",
+    "answer":"Kağıt"
+  },
+  {
+    "id":"40",
+    "riddle":"Boyum uzun, yavrularım düzüm düzüm. Saçımdan görmüyor iki gözüm",
+    "answer":"Mısır"
+  }, {
+  "id":"41",
+  "riddle":"Mahsun Kırmızıgül'ün uzun, Fettah Can'ın kısa. Nez ise hiç kullanmıyor. Tarif ettiğim şey ne?",
+  "answer":"Soyadı"
+},
+  {
+    "id":"42",
+    "riddle":"Bana sahip olduğunda beni paylaşmak istersin ama paylaşırsan artık bana sahip olamazsın.",
+    "answer":"Sır"
+  },
+  {
+    "id":"43",
+    "riddle":"Yeşil bir ev var, yeşil evin içinde beyaz bir ev var. Beyaz evin içinde de kırmızı bir ev var. Kırmızı evin içerisinde bir sürü bebek var. Ne tarif ettim?",
+    "answer":"Karpuz"
+  },
+  {
+    "id":"44",
+    "riddle":"Bir gözü de olabilir, dört gözüde. Ama ne görür ne duyar. Tarif ettiğim şey nedir?",
+    "answer":"Ocak"
+  }, {
+  "id":"45",
+  "riddle":"Tır şoförü ters yöne giriyor ve yol boyunca hiç bir polis şoförü çevirmiyor. Nasıl olabilir?",
+  "answer":"Çünkü Yürüyor"
+},
+  {
+    "id":"46",
+    "riddle":"Yapanın ihtiyacı yoktur, alan da kullanmaz. Kullanan ne görebilir ne de hissedebilir. Tarif ettiğim ne?",
+    "answer":"Tabut"
+  },
+  {
+    "id":"47",
+    "riddle":"Hiçliğin ortasında bir adam yürüyor ve aniden yağmur bastırıyor. Adamın kıyafetleri ıslansa da tek bir saç teli bile ıslanmıyor. Nasıl olabilir?",
+    "answer":"Adam Kel"
+  },
+  {
+    "id":"48",
+    "riddle":"Duvarın ötesini görmeni sağlayan bir icat.",
+    "answer":"Pencere"
+  },
+  {
+    "id":"49",
+    "riddle":"Bazı aylarda 30 bazılarında 31 gün vardır. Hangi aylarda 28 gün vardır?",
+    "answer":"Hepsinde"
+  },
+  {
+    "id":"50",
+    "riddle":"Aşağı ve yukarıya giden ama hiç hareket etmeyen şey nedir?",
+    "answer":"Merdiven"
+  },
+  {
+    "id":"51",
+    "riddle":"4×3+5+797÷454-257+235×563÷×5234÷3452= ? Olduğuna göre 2 artı 2 kaçtır ?",
+    "answer":"2"
+  },
+  {
+    "id":52,
+    "riddle":"Bebeğe patik giydirmeye çalışmışlar ama giymemiş neden?",
+    "answer":"Bebek Antipatikmiş"
+  },
+  {
+    "id":"53",
+    "riddle":"Özgür'ün ayağı takılıp düştüğü zaman hangi dernek yardımına gelir?",
+    "answer":"Özgür Düşünce Derneği"
+  },
+  {
+    "id":"54",
+    "riddle":"Eski çağlarda yapmak istemediği işleri komşu ülkelere yaptiran medeniyetin adı nedir?",
+    "answer":"İşkitler"
+  }
+]
